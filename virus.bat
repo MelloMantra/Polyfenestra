@@ -1,5 +1,5 @@
 @echo off
-start %0
+start /max %0
 echo.
 echo.
 echo     ###                     ######            ###
